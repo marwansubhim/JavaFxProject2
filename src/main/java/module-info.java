@@ -1,4 +1,4 @@
-module com.uiprojects.javafxproject2 {
+module com.uiprojects.javafxproject {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
